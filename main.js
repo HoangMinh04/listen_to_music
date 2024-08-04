@@ -45,10 +45,10 @@ let All_song = [
      singer: "Lady Gaga"
    },
    {
-     name: " ",
+     name: "Chó tên hoàn",
      path: ".mp3",
      img: ".jpg",
-     singer: ""
+     singer: "100 lp"
    },
    {
      name: "Poker face",
